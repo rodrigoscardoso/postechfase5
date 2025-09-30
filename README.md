@@ -2,6 +2,9 @@
 
 Sistema de processamento de vídeos desenvolvido com arquitetura de microsserviços para o HackSOAT10.
 
+### Link Video: [Video Fase 5](https://drive.google.com/drive/folders/17MztwuJ_awIEkE3vqWNr8jllW3_eGDOv?usp=sharing)
+### Link Projeto: [PostechFase5](https://github.com/rodrigoscardoso/postechfase5) 
+
 ## 🏗️ Arquitetura
 
 O sistema é composto pelos seguintes microsserviços:
@@ -57,7 +60,7 @@ O sistema é composto pelos seguintes microsserviços:
 
 ### 1. Clone o repositório
 ```bash
-git clone <repository-url>
+git clone https://github.com/rodrigoscardoso/postechfase5.git
 cd fiapx-video-processor
 ```
 
